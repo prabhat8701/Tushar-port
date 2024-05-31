@@ -20,11 +20,11 @@ function Home2() {
             </h1>
             <p className="home-about-body">
             Proﬁcient in multiple programming languages,
-including Java and C++, with a keen interest in algorithms and data structures.
+including C++, with a keen interest in algorithms and data structures.
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> JAVA, Javascript and C++. </b>
+                <b className="purple">Javascript and C++. </b>
               </i>
               <br />
               <br />
